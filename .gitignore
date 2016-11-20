@@ -250,3 +250,5 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+samples/SpeechRecognitionServiceExample/objd/amd64/SpeechToText-WPF-Sample.exe
+samples/SpeechRecognitionServiceExample/objd/amd64/SpeechToText-WPF-Sample.exe
